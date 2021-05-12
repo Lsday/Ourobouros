@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28550c8e52667814f95482862e4b2e9b, type: 3}
+  m_Name: AsteroidLoot
+  m_EditorClassIdentifier: 
+  description: 
+  loots:
+  - {fileID: 1701993107170005283, guid: df82367b4eccc914ab6e299508b61132, type: 3}
+  - {fileID: 1701993107170005283, guid: 54e68a40009773d4ea372bc31caac305, type: 3}
+  - {fileID: 1701993107170005283, guid: 54e68a40009773d4ea372bc31caac305, type: 3}
+  - {fileID: 1701993107170005283, guid: 54e68a40009773d4ea372bc31caac305, type: 3}
+  lootAmount: 1
+  randomLoot: 1

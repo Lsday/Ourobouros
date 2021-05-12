@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Body
+  - Head
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Loot
+  - Dragon
+  - WorldLimitsDestroyer
+  - BackGround
+  - DragonEnemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: BackGround
+    uniqueID: 2429441147
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Particules
+    uniqueID: 3267735007
+    locked: 0
+  - name: UI
+    uniqueID: 1374058629
+    locked: 0

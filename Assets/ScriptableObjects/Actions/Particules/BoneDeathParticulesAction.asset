@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 255af6bd6f6b6e04685dbab76e2b51a8, type: 3}
+  m_Name: BoneDeathParticulesAction
+  m_EditorClassIdentifier: 
+  description: 
+  particulesPrefab: {fileID: 656326630883633007, guid: b474cb46ed6ac2249b830b75716b1fc4,
+    type: 3}
+  autoDestroyTimer: 1.5
